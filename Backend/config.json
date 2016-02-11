@@ -1,0 +1,6 @@
+﻿{
+  "auth": {
+    "secretKey": "simplestuff"
+  },
+  "clashCallerUri": "http://www.clashcaller.com/war/"
+}
