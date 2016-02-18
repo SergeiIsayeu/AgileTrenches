@@ -54,5 +54,5 @@ function fake_context() {
 }
 var request = { secretKey: 'trenchesRock', warId : 'zzyyx' };
 var AWS = require('aws-sdk');
-AWS.config.update({ accessKeyId: 'AKIAIK7PK6MOZR22WJPQ', secretAccessKey: 'SDmlN4jgHjHfWwrBDKR/FVKqldvzTtuvr/IWMKtl' });
+AWS.config.update({ accessKeyId: 'xyz', secretAccessKey: 'xyz' });
 exports.handler(request, new fake_context());
