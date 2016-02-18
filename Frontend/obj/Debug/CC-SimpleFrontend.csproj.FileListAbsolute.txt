@@ -1,0 +1,17 @@
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\csc.exe
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\vbc.exe
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\VBCSCompiler.exe
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\CC-SimpleFrontend.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\bin\CC-SimpleFrontend.pdb
+C:\dev\SimpleSentiment\CC-SimpleFrontend\obj\Debug\CC-SimpleFrontend.csprojResolveAssemblyReference.cache
+C:\dev\SimpleSentiment\CC-SimpleFrontend\obj\Debug\CC-SimpleFrontend.dll
+C:\dev\SimpleSentiment\CC-SimpleFrontend\obj\Debug\CC-SimpleFrontend.pdb
