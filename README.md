@@ -1,4 +1,4 @@
-# AgileTrenches
+# Clash Caller Url Tool
 This is supersimple tool to help people who play clash of clans and use clashcaller to manage wars to simplify navigation to wars.
 Problem with usage of clashcaller is the need to communicate game codes(ex:'zxcvb') to everyone before the game.
 
